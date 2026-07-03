@@ -9,21 +9,18 @@ This Privacy Policy applies to the Discord bot **"Randomizer-Bot"**.
 To provide the bot's features, the following data may be stored:
 
 * Discord User IDs
-* Discord Server IDs
-* Discord Channel IDs
 * User-created builds
 * Favorite perks
-* Favorite characters
 
-No message content or personal Discord account information (such as email addresses or passwords) is collected or stored.
+The bot does **not** collect or store message content, Discord passwords, email addresses, IP addresses, Discord tokens, or any other personal account information.
 
 ## 🎯 Purpose of Data Collection
 
 The stored data is used exclusively to provide the bot's functionality, including:
 
 * Saving and managing custom builds
-* Storing favorite perks and favorite characters
-* Displaying personal statistics
+* Storing favorite perks
+* Displaying personal builds
 * Sharing and importing builds
 * Operating bot commands correctly
 
@@ -45,7 +42,7 @@ Reasonable technical and organizational measures are taken to protect stored dat
 
 This Privacy Policy may be updated from time to time.
 
-The latest version will always be available through the provided link.
+The latest version will always be be available through the provided link.
 
 ## 📝 Version History
 
@@ -54,7 +51,7 @@ The latest version will always be available through the provided link.
 
 ## 📬 Contact
 
-If you have questions regarding this Privacy Policy or wish to request deletion of your stored data, you may contact the developer via Discord.
+If you have any questions regarding this Privacy Policy or wish to request deletion of your stored data, you may contact the developer via Discord.
 
 **Support is currently provided in German only.**
 
@@ -71,21 +68,18 @@ Diese Datenschutzerklärung gilt für den Discord-Bot **„Randomizer-Bot“**.
 Zur Bereitstellung der Funktionen können folgende Daten gespeichert werden:
 
 * Discord-Benutzer-IDs
-* Discord-Server-IDs
-* Discord-Kanal-IDs
 * Vom Nutzer erstellte Builds
 * Favorisierte Perks
-* Favorisierte Charaktere
 
-Nachrichteninhalte sowie persönliche Discord-Kontodaten (z. B. E-Mail-Adresse oder Passwort) werden weder erhoben noch gespeichert.
+Der Bot speichert **keine** Nachrichteninhalte, Discord-Passwörter, E-Mail-Adressen, IP-Adressen, Discord-Token oder andere persönliche Kontodaten.
 
 ## 🎯 Zweck der Datenspeicherung
 
 Die gespeicherten Daten werden ausschließlich zur Bereitstellung der Bot-Funktionen verwendet, insbesondere für:
 
 * Speichern und Verwalten eigener Builds
-* Speichern von Lieblings-Perks und Lieblings-Charakteren
-* Bereitstellung persönlicher Statistiken
+* Speichern von Lieblings-Perks
+* Anzeigen persönlicher Builds
 * Teilen und Importieren von Builds
 * Ausführung der Bot-Befehle
 
@@ -95,7 +89,7 @@ Es erfolgt keine Weitergabe, kein Verkauf und keine Vermietung personenbezogener
 
 ## 🗑️ Speicherung und Löschung
 
-Daten werden nur so lange gespeichert, wie sie für den Betrieb des Bots erforderlich sind.
+Die Daten werden nur so lange gespeichert, wie sie für den Betrieb des Bots erforderlich sind.
 
 Nutzer können jederzeit die Löschung ihrer gespeicherten Daten beantragen, indem sie den Entwickler über Discord kontaktieren.
 
@@ -119,3 +113,4 @@ Die jeweils aktuelle Version ist über den bereitgestellten Link verfügbar.
 Bei Fragen zum Datenschutz oder zur Löschung gespeicherter Daten kann der Entwickler über Discord kontaktiert werden.
 
 **Support wird derzeit ausschließlich in deutscher Sprache angeboten.**
+
