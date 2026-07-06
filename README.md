@@ -13,12 +13,14 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 * 📖 Interactive Favorites Menu
 * ⬅️ Multi-page Navigation
 * ⭐ Toggle Favorite Perks
-* 🏗️ Save Custom Builds
-* 📚 View Saved Builds
-* ✏️ Rename Builds
-* 🗑️ Remove Builds
-* 📤 Share Builds
-* 📥 Import Builds
+* 🏗️ Complete Build Management
+  * ➕ Create Builds
+  * 📚 Interactive Build Menu
+  * ✏️ Rename Builds
+  * 📝 Edit Perks
+  * 📤 Share Builds
+  * 🗑️ Delete Builds
+  * 📥 Import Builds
 * 🔍 Search Perks & Characters
 * 📊 Global Statistics
 * 🏆 Most Popular Perks
@@ -27,7 +29,7 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 * 🖼️ Reward Images for every Code
 * 🔎 Smart Autocomplete
 * 💾 MongoDB Storage
-* ⚡ Interactive Buttons
+* ⚡ Interactive Buttons & Modals
 * ✅ Updated for DBD 10.0.1
 
 ---
@@ -50,12 +52,8 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 
 ## 🏗️ Builds
 
-* `/dbd build save`
-* `/dbd build list`
-* `/dbd build view`
-* `/dbd build rename`
-* `/dbd build remove`
-* `/dbd build share`
+* `/dbd build menu`
+* `/dbd build create`
 * `/dbd build import`
 
 ---
@@ -91,9 +89,27 @@ assets
 
 # 🚀 Version
 
-## **DBD Randomizer Bot v5.12.0**
+## **DBD Randomizer Bot v6.0.0**
 
-### ⭐ New in v5.12.0
+### ⭐ New in v6.0.0
+
+* 🏗️ Complete Build Management System
+* 📚 Interactive Build Menu
+* 📝 Edit Saved Builds
+* ✏️ Rename Builds
+* 🗑️ Delete Builds with Confirmation
+* 📤 Share Builds directly from the Menu
+* 📥 Build Import System
+* 👥 View other Players' Builds
+* 📄 Build Pagination
+* 💾 MongoDB Build Management
+* ⚡ Interactive Build Buttons & Modals
+* 🧹 Build System Cleanup
+* 🐛 Bug Fixes & Performance Improvements
+
+---
+
+### ⭐ Previous Update (v5.12.0)
 
 * 🖼️ Added Reward Images for DBD Codes
 * 🎁 Automatic Image Loading for every Reward Code
@@ -103,14 +119,3 @@ assets
 * 🎨 Cleaner Reward Embed Design
 * 🧹 Code System Cleanup
 * 🐛 Bug Fixes & Performance Improvements
-
----
-
-### ⭐ Previous Update (v5.11.0)
-
-* 🎲 Randomizer Improvements
-* ⭐ Favorites Improvements
-* 🏗️ Build System Improvements
-* 📊 Statistics Improvements
-* 🧹 UI Improvements
-* 🐛 Bug Fixes
