@@ -8,30 +8,24 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 
 * 🎲 Survivor & Killer Build Randomizer
 * 🔄 Reroll & Perk Lock System
-* ⭐ Favorite Perks
-* 👤 Favorite Characters
-* 📖 Interactive Favorites Menu
-* ⬅️ Multi-page Navigation
-* ⭐ Toggle Favorite Perks
+* ⭐ Favorite Perks & Characters
+* 🔍 Search Perks & Characters
 * 🏗️ Complete Build Management
   * ➕ Create Builds
   * 📚 Interactive Build Menu
   * ✏️ Rename Builds
   * 📝 Edit Perks
   * 📤 Share Builds
-  * 🗑️ Delete Builds
   * 📥 Import Builds
+  * 🗑️ Delete Builds
   * 👥 View other Players' Builds
-  * 📄 Build Pagination
-* 🔍 Search Perks & Characters
 * 📊 Global Statistics
 * 🏆 Most Popular Perks
-* 📚 Perk Database Statistics
 * 🎁 Active DBD Reward Codes
-* 🖼️ Reward Images for every Code
+* 🖼️ Reward Images
 * 🔎 Smart Autocomplete
 * 💾 MongoDB Storage
-* ⚡ Interactive Buttons & Modals
+* ⚡ Interactive Discord UI
 * ✅ Updated for DBD 10.0.2
 
 ---
@@ -42,23 +36,17 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 
 * `/dbd roll`
 
----
-
 ## ⭐ Favorites
 
 * `/dbd fav perks`
 * `/dbd fav character`
 * `/dbd fav clear`
 
----
-
 ## 🏗️ Builds
 
-* `/dbd build menu`
 * `/dbd build create`
+* `/dbd build menu`
 * `/dbd build import`
-
----
 
 ## 📊 Statistics
 
@@ -66,26 +54,10 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 * `/dbd perks`
 * `/dbd search`
 
----
-
 ## 🎁 Utilities
 
 * `/dbd codes`
 * `/dbd info`
-
----
-
-# 📁 Project Structure
-
-```text
-assets
-└── codes
-    ├── badges
-    ├── charms
-    ├── pride
-    ├── rewards
-    └── unknown.png
-```
 
 ---
 
@@ -97,10 +69,9 @@ assets
 
 * ➕ Renamed `/dbd build save` to `/dbd build create`
 * ✨ Improved Build Creation Workflow
-* 🧹 Build Command Cleanup
 * 📝 Updated Build Creation Messages
 * 📚 Updated Command Documentation
-* ⚡ General Code Cleanup
+* 🧹 General Code Cleanup
 * 🐛 Minor Bug Fixes & Performance Improvements
 
 ---
@@ -120,21 +91,3 @@ assets
 * 🏗️ Better handling when the last Build is deleted
 * 🐛 Various Build Menu Bug Fixes
 * ⚡ General Performance & Stability Improvements
-
----
-
-### ⭐ Previous Update (v6.0.0)
-
-* 🏗️ Complete Build Management System
-* 📚 Interactive Build Menu
-* 📝 Edit Saved Builds
-* ✏️ Rename Builds
-* 🗑️ Delete Builds with Confirmation
-* 📤 Share Builds directly from the Menu
-* 📥 Build Import System
-* 👥 View other Players' Builds
-* 📄 Build Pagination
-* 💾 MongoDB Build Management
-* ⚡ Interactive Build Buttons & Modals
-* 🧹 Build System Cleanup
-* 🐛 Bug Fixes & Performance Improvements
