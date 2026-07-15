@@ -11,6 +11,7 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 * ⭐ Favorite Perks & Characters
 * 🔍 Search Perks & Characters
 * 🏗️ Complete Build Management
+
   * ➕ Create Builds
   * 📚 Interactive Build Menu
   * ✏️ Rename Builds
@@ -18,14 +19,16 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
   * 📤 Share Builds
   * 📥 Import Builds
   * 🗑️ Delete Builds
-  * 👥 View other Players' Builds
-* 📊 Global Statistics
-* 🏆 Most Popular Perks
+  * 👥 View Other Players' Builds
+* 📊 Bot Statistics
+* 🏆 Most Popular Favorite Perks
 * 🎁 Active DBD Reward Codes
-* 🖼️ Reward Images
+* 🖼️ Reward Code Images
 * 🔎 Smart Autocomplete
 * 💾 MongoDB Storage
 * ⚡ Interactive Discord UI
+* 🔒 Secure Build Ownership Validation
+* 🎲 Improved Randomization Algorithm
 * ✅ Updated for DBD 10.0.2
 
 ---
@@ -63,31 +66,17 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 
 # 🚀 Version
 
-## **DBD Randomizer Bot v6.0.6**
+## **DBD Randomizer Bot v6.0.9**
 
-### ⭐ New in v6.0.6
+### ⭐ New in v6.0.9
 
-* ➕ Renamed `/dbd build save` to `/dbd build create`
-* ✨ Improved Build Creation Workflow
-* 📝 Updated Build Creation Messages
-* 📚 Updated Command Documentation
-* 🧹 General Code Cleanup
-* 🐛 Minor Bug Fixes & Performance Improvements
-
----
-
-### ⭐ Previous Update (v6.0.4)
-
-* ✨ Quality of Life Improvements
-* 📋 Improved Build Import Code Formatting
-* ✏️ Rename Modal now pre-fills the current Build Name
-* 🔄 Build Rename now updates the Build Embed instantly
-* 📝 Build Edit now updates the Build Embed instantly
-* 🚫 Prevent duplicate Build Names
-* 🚫 Prevent empty Build Names
-* 🗑️ Delete Confirmation now displays the selected Build Name
-* 📄 Improved Build Page Navigation State
-* 📝 Improved Build Edit Modal Labels
-* 🏗️ Better handling when the last Build is deleted
-* 🐛 Various Build Menu Bug Fixes
-* ⚡ General Performance & Stability Improvements
+* 📊 Improved `/dbd stats`
+* 📅 Added project founded date
+* 🧹 Removed unnecessary command statistics
+* 🔒 Added server-side build ownership validation
+* 👥 Improved permissions for viewing other players' builds
+* 🎲 Replaced random sorting with the Fisher-Yates shuffle algorithm
+* 🧹 Automatic cleanup of temporary build states
+* ♻️ Introduced reusable reply helper functions
+* ⚡ Internal code cleanup and consistency improvements
+* 🐛 Various bug fixes and stability improvements
