@@ -20,6 +20,7 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
   * 📥 Import Builds
   * 🗑️ Delete Builds
   * 👥 View Other Players' Builds
+
 * 📊 Bot Statistics
 * 🏆 Most Popular Favorite Perks
 * 🎁 Active DBD Reward Codes
@@ -28,7 +29,9 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 * 💾 MongoDB Storage
 * ⚡ Interactive Discord UI
 * 🔒 Secure Build Ownership Validation
-* 🎲 Improved Randomization Algorithm
+* 🎲 Fisher-Yates Randomization
+* 🧹 Automatic State Cleanup
+* ♻️ Reusable Reply System
 * ✅ Updated for DBD 10.0.2
 
 ---
@@ -66,17 +69,19 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 
 # 🚀 Version
 
-## **DBD Randomizer Bot v6.0.9**
+## **DBD Randomizer Bot v6.1.0**
 
-### ⭐ New in v6.0.9
+### ⭐ New in v6.1.0
 
-* 📊 Improved `/dbd stats`
-* 📅 Added project founded date
-* 🧹 Removed unnecessary command statistics
-* 🔒 Added server-side build ownership validation
-* 👥 Improved permissions for viewing other players' builds
-* 🎲 Replaced random sorting with the Fisher-Yates shuffle algorithm
-* 🧹 Automatic cleanup of temporary build states
-* ♻️ Introduced reusable reply helper functions
-* ⚡ Internal code cleanup and consistency improvements
-* 🐛 Various bug fixes and stability improvements
+* 🏗️ Complete Build Creation System
+* 📝 Interactive Build Setup Menu
+* 🎭 Survivor & Killer Role Selection
+* 📚 Interactive Perk Selection
+* ✅ Build Creation Validation
+* 🚫 Duplicate Build Name Protection
+* 🚫 Duplicate Perk Protection
+* 🔒 Full Build Ownership Validation
+* ⚡ Direct transition from Create to Build Details
+* 🎨 Improved Build Management UI
+* 🧹 Various code cleanup and optimizations
+* 🐛 Bug fixes and stability improvements
