@@ -10,6 +10,14 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 * 🔄 Reroll & Perk Lock System
 * ⭐ Favorite Perks & Characters
 * 🔍 Search Perks & Characters
+* 📖 Interactive Dead by Daylight Wiki
+  * 👤 Survivor Wiki
+  * 🔪 Killer Wiki
+  * ⭐ Survivor Perk Wiki
+  * 💀 Killer Perk Wiki
+  * 📑 Multi-page Navigation
+  * 🔙 Smart Back Navigation
+  * 🏠 Interactive Home Menu
 * 🏗️ Complete Build Management
 
   * ➕ Create Builds
@@ -32,7 +40,7 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 * 🎲 Fisher-Yates Randomization
 * 🧹 Automatic State Cleanup
 * ♻️ Reusable Reply System
-* ✅ Updated for DBD 10.0.2
+* ✅ Updated for DBD 10.0.3
 
 ---
 
@@ -41,6 +49,10 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 ## 🎲 Randomizer
 
 * `/dbd roll`
+
+## 📖 Wiki
+
+* `/dbd wiki`
 
 ## ⭐ Favorites
 
@@ -69,19 +81,22 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 
 # 🚀 Version
 
-## **DBD Randomizer Bot v6.1.0**
+## **DBD Randomizer Bot v6.2.1**
 
-### ⭐ New in v6.1.0
+### ⭐ New in v6.2.0/v6.2.1
 
-* 🏗️ Complete Build Creation System
-* 📝 Interactive Build Setup Menu
-* 🎭 Survivor & Killer Role Selection
-* 📚 Interactive Perk Selection
-* ✅ Build Creation Validation
-* 🚫 Duplicate Build Name Protection
-* 🚫 Duplicate Perk Protection
-* 🔒 Full Build Ownership Validation
-* ⚡ Direct transition from Create to Build Details
-* 🎨 Improved Build Management UI
-* 🧹 Various code cleanup and optimizations
+### 📖 Brand New Interactive Wiki
+
+* 📖 Added `/dbd wiki`
+* 👤 Survivor Wiki
+* 🔪 Killer Wiki
+* ⭐ Survivor Perk Wiki
+* 💀 Killer Perk Wiki
+* 📚 Character Information Pages
+* 📚 Perk Information Pages
+* 🔄 Multi-page Navigation
+* 🔙 Smart Context-Aware Back Navigation
+* 🏠 Interactive Wiki Home Menu
+* ⚡ Modular Wiki System
+* 🧹 Various navigation improvements
 * 🐛 Bug fixes and stability improvements
