@@ -10,16 +10,20 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 * 🔄 Reroll & Perk Lock System
 * ⭐ Favorite Perks & Characters
 * 🔍 Search Perks & Characters
+
 * 📖 Interactive Dead by Daylight Wiki
+  * 🏠 Interactive Home Menu
   * 👤 Survivor Wiki
   * 🔪 Killer Wiki
   * ⭐ Survivor Perk Wiki
   * 💀 Killer Perk Wiki
+  * 📚 Character Information Pages
+  * 📚 Perk Information Pages
   * 📑 Multi-page Navigation
-  * 🔙 Smart Back Navigation
-  * 🏠 Interactive Home Menu
-* 🏗️ Complete Build Management
+  * 🔙 Smart Context-Aware Back Navigation
+  * ⚙️ Centralized UI Configuration
 
+* 🏗️ Complete Build Management
   * ➕ Create Builds
   * 📚 Interactive Build Menu
   * ✏️ Rename Builds
@@ -40,6 +44,7 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 * 🎲 Fisher-Yates Randomization
 * 🧹 Automatic State Cleanup
 * ♻️ Reusable Reply System
+* ⚡ Modular Command System
 * ✅ Updated for DBD 10.0.3
 
 ---
@@ -66,11 +71,11 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 * `/dbd build menu`
 * `/dbd build import`
 
-## 📊 Statistics
+## 🔍 Search & Statistics
 
-* `/dbd stats`
-* `/dbd perks`
 * `/dbd search`
+* `/dbd perks`
+* `/dbd stats`
 
 ## 🎁 Utilities
 
@@ -81,11 +86,22 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 
 # 🚀 Version
 
-## **DBD Randomizer Bot v6.2.1**
+## **DBD Randomizer Bot v6.2.2**
 
-### ⭐ New in v6.2.0/v6.2.1
+### ⭐ New in v6.2.2
 
-### 📖 Brand New Interactive Wiki
+### 📖 Wiki Improvements
+
+* ⚙️ Centralized UI Configuration
+* 🎨 Shared Colors & Emojis
+* 📑 Shared Pagination System
+* 🔙 Improved Smart Back Navigation
+* 🏠 Improved Home Navigation
+* 🧹 Internal Code Cleanup
+* ⚡ Refactored Wiki Architecture
+* 🐛 Various bug fixes and stability improvements
+
+### ⭐ Introduced in v6.2.0 / v6.2.1
 
 * 📖 Added `/dbd wiki`
 * 👤 Survivor Wiki
@@ -94,9 +110,6 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 * 💀 Killer Perk Wiki
 * 📚 Character Information Pages
 * 📚 Perk Information Pages
-* 🔄 Multi-page Navigation
+* 📑 Multi-page Navigation
 * 🔙 Smart Context-Aware Back Navigation
 * 🏠 Interactive Wiki Home Menu
-* ⚡ Modular Wiki System
-* 🧹 Various navigation improvements
-* 🐛 Bug fixes and stability improvements
