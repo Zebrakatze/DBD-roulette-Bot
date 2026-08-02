@@ -1,0 +1,64 @@
+📚 Sources & Credits
+
+🖼️ Images & Icons
+Images and icons are sourced from the Dead by Daylight Wiki
+and Dead by Daylight game assets.
+
+Some images have been edited using Microsoft Paint, including:
+• Cropping and resizing
+• Removing backgrounds
+• Minor visual adjustments
+• Formatting for use within the Discord bot
+
+📖 Game Information
+Game-related information is based on Dead by Daylight
+and the Dead by Daylight Wiki.
+
+🎮 Build Suggestions & Player Experience
+Build suggestions are based on player experience, gameplay
+knowledge and practical use of perks.
+
+These builds are recommendations and are not intended to
+represent the only or objectively best way to play.
+
+🎮 Dead by Daylight
+Dead by Daylight and all related characters, names, icons,
+images and trademarks belong to Behaviour Interactive.
+
+This bot is an unofficial fan project and is not affiliated
+with or endorsed by Behaviour Interactive.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+📚 Quellen & Danksagungen
+
+🖼️ Bilder & Icons
+Die verwendeten Bilder und Icons stammen aus dem
+Dead by Daylight Wiki sowie aus Dead by Daylight-Spielinhalten.
+
+Einige Bilder wurden mit Microsoft Paint bearbeitet, darunter:
+• Zuschneiden und Ändern der Größe
+• Entfernen von Hintergründen
+• Kleinere visuelle Anpassungen
+• Formatierung für die Verwendung im Discord-Bot
+
+📖 Spielinformationen
+Spielbezogene Informationen basieren auf Dead by Daylight
+und dem Dead by Daylight Wiki.
+
+🎮 Build-Vorschläge & Spielerfahrungen
+Die Build-Vorschläge basieren auf Spielerfahrungen,
+Gameplay-Kenntnissen und dem praktischen Einsatz der Perks.
+
+Die Builds sind Empfehlungen und stellen nicht die einzige
+oder objektiv beste Spielweise dar.
+
+🎮 Dead by Daylight
+Dead by Daylight sowie alle zugehörigen Charaktere, Namen,
+Icons, Bilder und Marken gehören Behaviour Interactive.
+
+Dieser Bot ist ein inoffizielles Fanprojekt und steht in keiner
+Verbindung zu Behaviour Interactive und wird nicht von
+Behaviour Interactive unterstützt oder offiziell empfohlen.
