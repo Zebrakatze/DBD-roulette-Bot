@@ -6,46 +6,55 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 
 # ✨ Features
 
-* 🎲 Survivor & Killer Build Randomizer
-* 🔄 Reroll & Perk Lock System
-* ⭐ Favorite Perks & Characters
-* 🔍 Search Perks & Characters
+- 🎲 Survivor & Killer Build Randomizer
+- 🔄 Reroll & Perk Lock System
+- ⭐ Favorite Perks & Characters
+- 🔍 Search Perks & Characters
 
-* 📖 Interactive Dead by Daylight Wiki
-  * 🏠 Interactive Home Menu
-  * 👤 Survivor Wiki
-  * 🔪 Killer Wiki
-  * ⭐ Survivor Perk Wiki
-  * 💀 Killer Perk Wiki
-  * 📚 Character Information Pages
-  * 📚 Perk Information Pages
-  * 📑 Multi-page Navigation
-  * 🔙 Smart Context-Aware Back Navigation
-  * ⚙️ Centralized UI Configuration
+- 📖 Interactive Dead by Daylight Wiki
+  - 🏠 Interactive Home Menu
+  - 👤 Survivor Wiki
+  - 🔪 Killer Wiki
+  - ⭐ Survivor Perk Wiki
+  - 💀 Killer Perk Wiki
+  - 📚 Character Information Pages
+  - 📚 Perk Information Pages
+  - 📑 Multi-page Navigation
+  - 🔙 Smart Context-Aware Back Navigation
+  - ⚙️ Centralized UI Configuration
 
-* 🏗️ Complete Build Management
-  * ➕ Create Builds
-  * 📚 Interactive Build Menu
-  * ✏️ Rename Builds
-  * 📝 Edit Perks
-  * 📤 Share Builds
-  * 📥 Import Builds
-  * 🗑️ Delete Builds
-  * 👥 View Other Players' Builds
+- 🏗️ Complete Build Management
+  - ➕ Create Builds
+  - 📚 Interactive Build Menu
+  - ✏️ Rename Builds
+  - 📝 Edit Perks
+  - 📤 Share Builds
+  - 📥 Import Builds
+  - 🗑️ Delete Builds
+  - 👥 View Other Players' Builds
 
-* 📊 Bot Statistics
-* 🏆 Most Popular Favorite Perks
-* 🎁 Active DBD Reward Codes
-* 🖼️ Reward Code Images
-* 🔎 Smart Autocomplete
-* 💾 MongoDB Storage
-* ⚡ Interactive Discord UI
-* 🔒 Secure Build Ownership Validation
-* 🎲 Fisher-Yates Randomization
-* 🧹 Automatic State Cleanup
-* ♻️ Reusable Reply System
-* ⚡ Modular Command System
-* ✅ Updated for DBD 10.0.3
+- 🧰 Preset Build System
+  - 👤 Survivor Preset Builds
+  - 🔪 Killer Preset Builds
+  - 📚 Ready-Made Build Suggestions
+  - 🏷️ Build Categories
+  - 📖 Build Descriptions
+  - 📑 Multi-page Build Navigation
+  - 🔙 Smart Back Navigation
+
+- 📊 Bot Statistics
+- 🏆 Most Popular Favorite Perks
+- 🎁 Active DBD Reward Codes
+- 🖼️ Reward Code Images
+- 🔎 Smart Autocomplete
+- 💾 MongoDB Storage
+- ⚡ Interactive Discord UI
+- 🔒 Secure Build Ownership Validation
+- 🎲 Fisher-Yates Randomization
+- 🧹 Automatic State Cleanup
+- ♻️ Reusable Reply System
+- ⚡ Modular Command System
+- ✅ Updated for DBD 10.0.3
 
 ---
 
@@ -53,63 +62,81 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 
 ## 🎲 Randomizer
 
-* `/dbd roll`
+- `/dbd roll`
 
 ## 📖 Wiki
 
-* `/dbd wiki`
+- `/dbd wiki`
 
 ## ⭐ Favorites
 
-* `/dbd fav perks`
-* `/dbd fav character`
-* `/dbd fav clear`
+- `/dbd fav perks`
+- `/dbd fav character`
+- `/dbd fav clear`
 
 ## 🏗️ Builds
 
-* `/dbd build create`
-* `/dbd build menu`
-* `/dbd build import`
+- `/dbd build create`
+- `/dbd build menu`
+- `/dbd build import`
+- `/dbd build presets`
 
 ## 🔍 Search & Statistics
 
-* `/dbd search`
-* `/dbd perks`
-* `/dbd stats`
+- `/dbd search`
+- `/dbd perks`
+- `/dbd stats`
 
 ## 🎁 Utilities
 
-* `/dbd codes`
-* `/dbd info`
+- `/dbd codes`
+- `/dbd info`
 
 ---
 
 # 🚀 Version
 
-## **DBD Randomizer Bot v6.2.2**
+## **DBD Randomizer Bot v6.2.3**
+
+### ⭐ New in v6.2.3
+
+### 🧰 Preset Build System
+
+- 🧰 Added `/dbd build presets`
+- 👤 Added Survivor Preset Builds
+- 🔪 Added Killer Preset Builds
+- 📚 Ready-Made Build Suggestions
+- 🏷️ Build Categories
+- 💬 Build Descriptions
+- 📑 Multi-page Preset Navigation
+- 🔙 Context-Aware Back Navigation
+- 🏠 Preset Build Home Menu
+- ⚡ Interactive Survivor & Killer Selection
+- 🧹 Internal Code Improvements
+- 🐛 Various bug fixes and stability improvements
 
 ### ⭐ New in v6.2.2
 
 ### 📖 Wiki Improvements
 
-* ⚙️ Centralized UI Configuration
-* 🎨 Shared Colors & Emojis
-* 📑 Shared Pagination System
-* 🔙 Improved Smart Back Navigation
-* 🏠 Improved Home Navigation
-* 🧹 Internal Code Cleanup
-* ⚡ Refactored Wiki Architecture
-* 🐛 Various bug fixes and stability improvements
+- ⚙️ Centralized UI Configuration
+- 🎨 Shared Colors & Emojis
+- 📑 Shared Pagination System
+- 🔙 Improved Smart Back Navigation
+- 🏠 Improved Home Navigation
+- 🧹 Internal Code Cleanup
+- ⚡ Refactored Wiki Architecture
+- 🐛 Various bug fixes and stability improvements
 
 ### ⭐ Introduced in v6.2.0 / v6.2.1
 
-* 📖 Added `/dbd wiki`
-* 👤 Survivor Wiki
-* 🔪 Killer Wiki
-* ⭐ Survivor Perk Wiki
-* 💀 Killer Perk Wiki
-* 📚 Character Information Pages
-* 📚 Perk Information Pages
-* 📑 Multi-page Navigation
-* 🔙 Smart Context-Aware Back Navigation
-* 🏠 Interactive Wiki Home Menu
+- 📖 Added `/dbd wiki`
+- 👤 Survivor Wiki
+- 🔪 Killer Wiki
+- ⭐ Survivor Perk Wiki
+- 💀 Killer Perk Wiki
+- 📚 Character Information Pages
+- 📚 Perk Information Pages
+- 📑 Multi-page Navigation
+- 🔙 Smart Context-Aware Back Navigation
+- 🏠 Interactive Wiki Home Menu
