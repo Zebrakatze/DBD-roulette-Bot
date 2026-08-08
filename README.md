@@ -21,6 +21,7 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
   - 📚 Perk Information Pages
   - 📑 Multi-page Navigation
   - 🔙 Smart Context-Aware Back Navigation
+  - 🎨 Dedicated Wiki Color
   - ⚙️ Centralized UI Configuration
 
 - 🏗️ Complete Build Management
@@ -41,6 +42,7 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
   - 📖 Build Descriptions
   - 📑 Multi-page Build Navigation
   - 🔙 Smart Back Navigation
+  - 🔄 Regularly Updated Build Collection
 
 - 📊 Bot Statistics
 - 🏆 Most Popular Favorite Perks
@@ -96,9 +98,25 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 
 # 🚀 Version
 
-## **DBD Randomizer Bot v6.2.3**
+## **DBD Randomizer Bot v6.2.4**
 
-### ⭐ New in v6.2.3
+### ⭐ New in v6.2.4
+
+### 🧹 Wiki Code Quality & Improvements
+
+- 🛡️ Improved Character Data Handling
+- 🎨 Improved Character Role Color Handling
+- 🟣 Added Dedicated Wiki Color
+- 🧹 Cleaned Up Wiki Configuration
+- 📑 Improved Pagination Safety
+- 🛡️ Added Better Handling for Empty Pagination Results
+- ⚙️ Improved Internal Wiki Structure
+- 🧹 Various Code Quality Improvements
+- 🐛 Various bug fixes and stability improvements
+
+---
+
+### ⭐ v6.2.3
 
 ### 🧰 Preset Build System
 
@@ -115,7 +133,11 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 - 🧹 Internal Code Improvements
 - 🐛 Various bug fixes and stability improvements
 
-### ⭐ New in v6.2.2
+> 📚 Preset Builds can be expanded with new build suggestions without requiring a new bot version.
+
+---
+
+### ⭐ v6.2.2
 
 ### 📖 Wiki Improvements
 
@@ -128,9 +150,14 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 - ⚡ Refactored Wiki Architecture
 - 🐛 Various bug fixes and stability improvements
 
-### ⭐ Introduced in v6.2.0 / v6.2.1
+---
+
+### ⭐ v6.2.0 / v6.2.1
+
+### 📖 Brand New Interactive Wiki
 
 - 📖 Added `/dbd wiki`
+- 🏠 Interactive Wiki Home Menu
 - 👤 Survivor Wiki
 - 🔪 Killer Wiki
 - ⭐ Survivor Perk Wiki
@@ -139,4 +166,4 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 - 📚 Perk Information Pages
 - 📑 Multi-page Navigation
 - 🔙 Smart Context-Aware Back Navigation
-- 🏠 Interactive Wiki Home Menu
+- ⚡ Modular Wiki System
