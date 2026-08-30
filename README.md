@@ -59,7 +59,7 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 - 🧹 Automatic State Cleanup
 - ♻️ Reusable Reply System
 - ⚡ Modular Command System
-- ✅ Updated for DBD 10.0.3
+- ✅ Updated for DBD 10.1.0
 
 ---
 
