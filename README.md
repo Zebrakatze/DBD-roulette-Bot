@@ -42,7 +42,10 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
   - 📖 Build Descriptions
   - 📑 Multi-page Build Navigation
   - 🔙 Smart Back Navigation
-  - 🔄 Regularly Updated Build Collection
+  - 🏠 Preset Build Home Menu
+  - ⚡ Interactive Survivor & Killer Selection
+  - 🎯 Survivor Build-Type Filtering
+  - 🧹 Modular Preset Architecture
 
 - 📊 Bot Statistics
 - 🏆 Most Popular Favorite Perks
@@ -98,9 +101,51 @@ Create random **Survivor** and **Killer** builds for **Dead by Daylight** direct
 
 # 🚀 Version
 
-## **DBD Randomizer Bot v6.2.4**
+## **DBD Randomizer Bot v6.3.2**
 
-### ⭐ New in v6.2.4
+### ⭐ New in v6.3.2
+
+### 🧰 Preset Build Navigation Improvements
+
+- 🔙 Added Smart Back Navigation for Killer Preset Builds
+- ↩️ Killer Overview can now return to the Survivor/Killer selection
+- ↩️ Killer Build Lists can now return to the Killer Overview
+- ↩️ Killer Build Details return to the corresponding Killer Build List
+- 🔄 Preserved Killer Overview Pagination
+- 🔄 Preserved Killer Build Pagination
+- 🔙 Improved Survivor Preset Navigation
+- ↩️ Survivor Build Lists can return to the Survivor Build-Type selection
+- ↩️ Survivor Build Details return to the corresponding Build List
+- 🏠 Improved Preset Home Navigation
+- 🧹 Removed redundant navigation components
+- 🛡️ Prevented duplicated Discord component IDs
+- ⚙️ Improved Preset Navigation Architecture
+- 🐛 Various bug fixes and stability improvements
+
+---
+
+### ⭐ v6.3.1
+
+### 🧰 Survivor Preset Build Improvements
+
+- 🎯 Added Survivor Build-Type Filtering
+- 🏃 Added Chase Build Category
+- ⚙️ Added Objective Build Category
+- 🛡️ Added Survival Build Category
+- 🚑 Added Support Build Category
+- 👻 Added Stealth & Mindgame Build Category
+- 💡 Added Disruption Build Category
+- 👁️ Added Information Build Category
+- 🏁 Added Endgame Build Category
+- 📑 Added Category-Based Survivor Build Navigation
+- 🔄 Added Survivor Build Pagination per Category
+- 🧰 Improved Survivor Preset Build Structure
+- 🧹 Improved Preset Code Organization
+- 🐛 Various bug fixes and stability improvements
+
+---
+
+### ⭐ v6.2.4
 
 ### 🧹 Wiki Code Quality & Improvements
 
